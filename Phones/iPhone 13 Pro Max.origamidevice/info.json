@@ -1,0 +1,50 @@
+{
+  "key": "iPhone13ProMax",
+  "displayName": "iPhone 13 Pro Max",
+  "platform": "iOS",
+  "type" : "phone",
+  "screenScale": 3,
+  "deviceCornerRadius": 12,
+  "screenSize": [
+    428,
+    926
+  ],
+  "handsImageScale": 1.45,
+  "handsImageOffset": [
+    0,
+    -8
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceImageScale": 0.688,
+  "deviceInsets": [
+    77,
+    85,
+    77,
+    85
+  ],
+  "deviceImageOffset": [
+    0,
+    0
+  ],
+  "deviceImages": {
+    "Sierra Blue": "iPhone13ProMax_Blue.png"
+  },
+  "deviceOverlayImages": {
+    "Sierra Blue": "Overlay_iPhone13ProMax_Blue.png"
+  },
+  "shadowOffset": [
+    0,
+    -3
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": false
+}

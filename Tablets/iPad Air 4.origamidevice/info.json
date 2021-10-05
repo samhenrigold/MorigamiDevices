@@ -1,0 +1,42 @@
+{
+  "handsImageOffset" : [
+    -2,
+    22
+  ],
+  "deviceInsets" : [
+    78,
+    125,
+    78,
+    125
+  ],
+  "handsImageScale" : 0.9,
+  "deviceImageScale": 0.78,
+  "displayName" : "iPad Air (4th generation)",
+  "key" : "iPadAir4",
+  "type" : "tablet",
+  "platform" : "iOS",
+  "screenSize" : [
+    1180,
+    820
+  ],
+  "deviceImages" : {
+    "Blue" : "iPadAir_Blue.png",
+    "Silver" : "iPadAir_Svr.png",
+    "Space Gray" : "iPadAir_SpGry.png"
+  },
+  "deviceOverlayImages": {
+    "Blue": "Overlay_iPadAir.png",
+    "Silver": "Overlay_iPadAir.png",
+    "Space Gray": "Overlay_iPadAir.png"
+  },
+  "handsImages" : [
+    "x-shared-image:///iPadHands.png"
+  ],
+  "shadowOffset" : [
+    1,
+    -7
+  ],
+  "screenScale" : 2,
+  "handsOnTop" : true,
+  "defaultDeviceOrientation" : "LandscapeRight"
+}

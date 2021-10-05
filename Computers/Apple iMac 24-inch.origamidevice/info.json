@@ -1,0 +1,44 @@
+{
+  "deviceInsets" : [
+    114,
+    114,
+    650,
+    114
+  ],
+  "deviceImageOffset" : [
+    0,
+    -612
+  ],
+  "deviceImageScale" : 0.5025,
+  "handsImageScale" : 1.3,
+  "mouseInput" : true,
+  "displayName" : "Apple iMac 24-inch",
+  "key" : "AppleiMac24",
+  "type" : "computer",
+  "platform" : "OSX",
+  "screenSize" : [
+    2240,
+    1260
+  ],
+  "handsImages" : [
+  ],
+  "handsImageOffset": [
+    -6,
+    -550
+  ],
+  "deviceImages" : {
+    "Blue" : "iMac24_Blu.png",
+    "Orange" : "iMac24_Orng.png",
+    "Purple" : "iMac24_Prpl.png",
+    "Red" : "iMac24_Red.png",
+    "Yellow" : "iMac24_Ylw.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 2,
+  "handsOnTop" : true,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

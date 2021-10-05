@@ -1,0 +1,42 @@
+{
+  "handsImageOffset" : [
+    -2,
+    22
+  ],
+  "deviceInsets" : [
+    78,
+    125,
+    78,
+    125
+  ],
+  "handsImageScale" : 0.9,
+  "deviceImageScale": 0.8,
+  "displayName" : "iPad mini (6th generation)",
+  "key" : "iPadMini6",
+  "type" : "tablet",
+  "platform" : "iOS",
+  "screenSize" : [
+    1133,
+    744
+  ],
+  "deviceImages" : {
+    "Purple" : "iPadMini_Purple_PF.png",
+    "Star Dust" : "iPadMini_Strdst_PF.png",
+    "Space Gray" : "iPadMini_SpGry_PF.png"
+  },
+  "deviceOverlayImages": {
+    "Purple": "Overlay_iPadMini.png",
+    "Star Dust": "Overlay_iPadMini.png",
+    "Space Gray": "Overlay_iPadMini.png"
+  },
+  "handsImages" : [
+    "x-shared-image:///iPadHands.png"
+  ],
+  "shadowOffset" : [
+    1,
+    6
+  ],
+  "screenScale" : 2,
+  "handsOnTop" : true,
+  "defaultDeviceOrientation" : "LandscapeRight"
+}
