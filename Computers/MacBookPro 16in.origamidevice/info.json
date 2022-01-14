@@ -1,0 +1,36 @@
+{
+  "deviceInsets" : [
+    335,
+    96,
+    333,
+    98
+  ],
+  "deviceImageOffset" : [
+    0,
+    -200
+  ],
+  "handsImageScale" : 0,
+  "deviceCornerRadius": 10,
+  "mouseInput" : true,
+  "displayName" : "MacBook Pro 16\"",
+  "key" : "MacBookPro-16",
+  "type" : "computer",
+  "platform" : "OSX",
+  "screenSize" : [
+    1728,
+    1117
+  ],
+  "deviceImages" : {
+    "Silver" : "Silver.png"
+  },
+  "deviceOverlayImages": {
+    "Silver": "SilverOverlay.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 1.79,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

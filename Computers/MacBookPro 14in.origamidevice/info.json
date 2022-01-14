@@ -1,0 +1,36 @@
+{
+  "deviceInsets" : [
+    134,
+    134,
+    134,
+    134
+  ],
+  "deviceImageOffset" : [
+    0,
+    -190
+  ],
+  "handsImageScale" : 0,
+  "deviceCornerRadius": 0,
+  "mouseInput" : true,
+  "displayName" : "MacBook Pro 14\"",
+  "key" : "MacBookPro-14",
+  "type" : "computer",
+  "platform" : "OSX",
+  "screenSize" : [
+    1512,
+    982
+  ],
+  "deviceImages" : {
+    "Silver" : "Silver.png"
+  },
+  "deviceOverlayImages": {
+    "Silver": "SilverOverlay.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 1.72,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

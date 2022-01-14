@@ -1,0 +1,27 @@
+{
+  "deviceInsets" : [
+    300,
+    300,
+    300,
+    300
+  ],
+  "deviceImageOffset": [
+    0,
+    -135
+  ],
+  "deviceImageScale" : 1.2,
+  "deviceCornerRadius": 3,
+  "handsImageScale" : 0,
+  "displayName" : "Apple AirPods Case",
+  "key" : "AirPodsCase",
+  "type" : "audio",
+  "platform" : "iOS",
+  "screenSize" : [
+    5,
+    5
+  ],
+  "deviceImages" : {
+    "White" : "Case.png"
+  },
+  "screenScale" : 1
+}

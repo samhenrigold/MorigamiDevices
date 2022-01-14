@@ -1,0 +1,31 @@
+{
+  "key" : "Smart Fridge",
+  "displayName" : "Samsung Smart Fridge",
+  "type" : "home",
+  "platform" : "Android",
+  "mouseInput" : false,
+  "deviceImageScale" : 1,
+  "screenSize" : [
+    1080,
+    1920
+  ],
+  "deviceInsets" : [
+    0,
+    450,
+    450,
+    200
+  ],
+  "deviceImageOffset" : [
+    285,
+    -485
+  ],
+  "deviceImages" : {
+    "Stainless Steel" : "Frame.png"
+  },
+  "screenScale" : 0.14,
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": false,
+  "supportsDeviceOrientationLandscapeRight": false,
+  "supportsDeviceOrientationPortraitUpsideDown": false
+}
