@@ -1,0 +1,40 @@
+{
+  "deviceInsets" : [
+    0,
+    414,
+    414,
+    414
+  ],
+  "deviceImageOffset" : [
+    0,
+    0
+  ],
+  "deviceImageScale" : 1.0,
+  "handsImageScale" : 1.0,
+  "mouseInput" : true,
+  "displayName" : "Apple Studio Display",
+  "key" : "AppleStudioDisplay",
+  "type" : "computer",
+  "platform" : "OSX",
+  "screenSize" : [
+    2560,
+    1440
+  ],
+  "handsImages" : [
+    "Stand.png"
+  ],
+  "handsImageOffset": [
+    0,
+    880
+  ],
+  "deviceImages" : {
+    "Default" : "Studio_Display.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 1.47,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : true,
+  "supportsDeviceOrientationLandscapeRight" : true,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : true
+}
