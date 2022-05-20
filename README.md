@@ -2,6 +2,8 @@
 Unofficial device presets for [Origami Studio](https://origami.design).
 
 ## Device List
+_(Added March 8, 2022)_
+- Apple Studio Display
 
 _(Added January 13, 2022)_
 - MacBook Pro (14-inch, 2021)
